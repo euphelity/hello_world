@@ -1,2 +1,5 @@
 # hello_world
-Random repository
+
+Hello Everyone!
+
+I'm Aditi and student studying Btech CSE. Hope to have a great journey.
